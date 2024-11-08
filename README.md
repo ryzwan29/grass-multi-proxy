@@ -19,6 +19,8 @@ An example for a proxy format is in ```localproxies.txt```
 ```
 source <(curl -s https://raw.githubusercontent.com/ryzwan29/grass-multi-proxy/main/setup.sh)
 ```
+after that you can choose one of ```Lite Version/Node Version/Multi Account/Without Proxy```
+
 # How to get userid grass
 - login to grass dashboard , then click inspect / f12 ,  go to **console**
 - paste
