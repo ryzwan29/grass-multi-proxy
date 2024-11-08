@@ -3,9 +3,13 @@
 - Join to him [Telegram Group](https://t.me/AirdropFamilyIDN) for more information 
 
 # [Register Here](https://app.getgrass.io/register/?referralCode=FNA8f85dIe_epSX)
+Feature:
 - Lite Version
 - Node Version
-- An example for a proxy format is in ```localproxies.txt```
+- Multi Account
+- Without Proxy
+
+An example for a proxy format is in ```localproxies.txt```
 
 # Requirements
 - Python 3.10 or higher
